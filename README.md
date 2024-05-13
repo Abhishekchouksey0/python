@@ -1,4 +1,4 @@
 Python script
 
-Basic game script
-have fun!
+Basic game script,
+Have fun with your friends!
