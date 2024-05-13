@@ -53,7 +53,7 @@ while running:
 
     # check for collision
     if enemy_y + enemy_height >= player_y and enemy_x < player_x + player_width and enemy_x + enemy_width > player_x:
-        print("Game Over")
+        print("Game Over...😯")
         running = False
 
     # keep enemy within screen bounds
