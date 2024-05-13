@@ -1,3 +1,4 @@
-devA Python script
+Python script
 
 Basic game script
+have fun!
